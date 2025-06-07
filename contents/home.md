@@ -7,7 +7,7 @@ I have a keen interest in computer systems, large language models, embodied inte
 Outside of tech, I'm passionate about sports-especially running and table tennis-and enjoy music as well. Feel free to reach out; I'm always open to connecting with others!
 
 #### Email
-songcheng0704@atu.pku.edu.cn
+songcheng0704@stu.pku.edu.cn
 
 #### Education Experience
 
