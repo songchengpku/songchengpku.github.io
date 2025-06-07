@@ -1,16 +1,24 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+#### About Me
+My name is 宋澄·Cheng(Dylan)Song.<br/><br/>
+I'm from Ningbo,China,living in Beijing. I'm a undergraduate student majoring in Computer Science at the School of Electronics Engineering and Computer Science (EECS), Peking University. <br/><br/>
+I have a keen interest in computer systems, large language models, embodied intelligence, and related fields. I love exploring the underlying logic behind code and algorithms, and I'm also eager to try my hand at multidisciplinary projects.<br/><br/>
+Outside of tech, I'm passionate about sports-especially running and table tennis-and enjoy music as well. Feel free to reach out; I'm always open to connecting with others!
 
 #### Email
-sli[at]cumt.edu.cn
+songcheng0704@atu.pku.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Education Experience
+
+#### Awards & Honors
+
+#### Projects
+
+#### Technologies & Tools
+
+#### Blog & Writing
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
 
